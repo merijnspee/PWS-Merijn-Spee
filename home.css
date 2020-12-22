@@ -1,0 +1,9 @@
+html {
+    background-color: rgb(218, 213, 213);
+}
+p {
+    text-align : center;
+    font-size: 50px;
+    padding-top: 20%;
+    padding-bottom: 20%;    
+}
