@@ -1,7 +1,7 @@
 html {
-    background-color: rgb(218, 213, 213);
+    background-color: rgb(216, 216, 216);
 }
-p {
+#logintext {
     text-align: center;
     font-size: 15px; 
     font-family:Arial, Helvetica, sans-serif;
@@ -9,7 +9,7 @@ p {
     display: block;
     color: white;
 }
-.middel {
+#middel {
     margin: 0;
     position: absolute;
     top: 50%;
@@ -25,7 +25,7 @@ p {
     padding-bottom: 150px;
 
 }
-.login {
+#login {
     height: auto;
     width: auto;
     position: relative;
@@ -48,5 +48,11 @@ p {
     margin-right: auto;
 
 }
-
-    
+.rooster {
+    display: none;
+    width: 20px;
+    height: 20px;
+    color: black;
+    margin: auto;
+    margin-top: 20%;
+}
