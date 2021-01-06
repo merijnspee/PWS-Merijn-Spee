@@ -40,19 +40,11 @@ html {
     margin-left: auto;
     margin-right: auto;
   }
-#inp1 {
+#inp1 #inp2 #inp3 #inp4 {
     border-radius: 3px;    
     text-align: center;
     display: block;
     margin-left: auto;
     margin-right: auto;
 
-}
-.rooster {
-    display: none;
-    width: 20px;
-    height: 20px;
-    color: black;
-    margin: auto;
-    margin-top: 20%;
 }
